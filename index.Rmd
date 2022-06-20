@@ -171,10 +171,14 @@ As decisões sobre a agregação de estoque devem considerar custos de transport
 
 # Custos em Logística
 
-##Classificação dos custos
+## Classificação dos custos
 A análise econômica costuma fazer a distinção, apresentada a seguir, entre os custos de produção.
 
 Em nível macro, os custos operacionais dos veículos rodoviários podem ser classificados da forma como se segue.
+
+---
+
+# Custos em Logística
 
 ### Custos Diretos
 Correspondem aos custos fixos mais os variáveis.
@@ -186,11 +190,50 @@ Correspondem aos custos fixos mais os variáveis.
 ### Custos Indiretos ou Administrativos
 São os custos necessários para manter o sistema de transporte da empresa
 
+---
 
+# Custos em Logística
+
+### Custos Fixos
+- Depreciação: corresponde à redução de valor que o veículo vai sofrendo com o decorrer do tempo.   
+- Remuneração do capital: qualquer investimento que se faça pressupõe um retorno ou remuneração do capital aplicado. É isso que o empresário espera ao investir em uma empresa de transportes. Portanto, a cada serviço que ela presta, a mesma tem que embutir em seus custos a remuneração do capital aplicado pelo investidor.
+- Salário da tripulação: corresponde ao pagamento de motoristas, cobradores, ajudantes etc. e respectivos encargos sociais.
+- Licenciamento.
+- Seguros.
 
 ---
 
 # Custos em Logística
+
+### Custos Variáveis
+- Combustível.
+- Óleo lubrificante do motor.
+- Óleo lubrificante da transmissão.
+- Lavagem e lubrificação.
+- Material rodante: corresponde a pneus, câmaras, recapagens e protetores.
+- Peças, acessórios e material de oficina.
+- Mão-de-obra para manutenção dos veículos.
+
+---
+
+# Custos em Logística
+
+### Custos Indiretos ou administrativos
+— Pessoal de armazéns, escritórios e respectivos encargos sociais.   
+— Impressos.   
+— Publicidade.   
+— Aluguéis de armazéns e escritórios.   
+— Comunicações.   
+— Impostos e taxas legais.   
+— Construção, conservação e limpeza.   
+— Viagens e estadas.   
+— Despesas financeiras.   
+— Despesas diversas   
+
+---
+
+# Custos em Logística
+
 ## Fatores que Influenciam nos Custos   
 
 
@@ -213,6 +256,32 @@ São os custos necessários para manter o sistema de transporte da empresa
 
 — **Desequilíbrio nos Fluxos**: Outro fator de variação nos custos é o desequilíbrio nos fluxos. No caso do transporte de passageiros, eles costumam ser pendulares (quem vai volta), o que geralmente não ocorre para as cargas.   
 
+
+---
+# Métodos de cálculo de custos operacionais
+
+## Método dos Custos Médios Desagregados
+
+O método está baseado em parâmetros médios de consumo. Não é sensível, portanto, a variações específicas de velocidades e carregamento dos veículos e nem das condições físicas e de tráfego das rodovias, ou seja, é calculado levando se em conta as condições médias de tráfego, rodagem, carregamento e velocidade.
+
+---
+# Métodos de cálculo de custos operacionais
+
+## Custeio ABC
+O Custeio Baseado em Atividades parte do princípio que os custos de uma empresa são gerados pelas atividades desempenhadas nela e que essas atividades são consumidas por produtos e serviços gerados nesta mesma empresa. Essa metodologia permite mensurar com mais exatidão as despesas e os custos indiretos — aqueles que não estão diretamente ligados à produção —, por meio da análise das atividades, dos seus geradores de custos e dos utilizadores.
+
+Antes, vamos esclarecer que o ABC é um método de rastrear os custos das atividades realizadas por uma empresa e de verificar como essas atividades estão relacionadas para a geração de receitas e o consumo de recursos. Seu principal objetivo é amenizar as distorções provocadas pelo uso do rateio arbitrário.
+
+---
+# Métodos de cálculo de custos operacionais
+
+## Custeio ABC
+
+### O que são direcionadores de custos?
+O direcionador de custos, no popular da controladoria chamados de “driver de custeio”, pode ser definido como uma **transação que determina a quantidade de trabalho aplicada em uma atividade para saber o seu custo, assim como a quantidade de atividade usada para a produção de um produto ou a entrega de um serviço**. Ele é classificado em duas categorias: 
+
+- **Direcionador de custos de recursos**: sua função é rastrear e identificar o quanto cada atividade consome de recursos. Para isso, este direcionador deve estabelecer uma ligação direta entre o recurso utilizado e a atividade executada.  
+- **Direcionador de custos de atividades**: é o mecanismo utilizado para rastrear e indicar as atividades necessárias para a fabricação de um produto ou a execução de um serviço. 
 
 ---
 
