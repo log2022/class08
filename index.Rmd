@@ -262,15 +262,17 @@ São os custos necessários para manter o sistema de transporte da empresa
 
 ## Método dos Custos Médios Desagregados
 
-O método está baseado em parâmetros médios de consumo. Não é sensível, portanto, a variações específicas de velocidades e carregamento dos veículos e nem das condições físicas e de tráfego das rodovias, ou seja, é calculado levando se em conta as condições médias de tráfego, rodagem, carregamento e velocidade.
+O método está baseado em parâmetros **médios de consumo**. Não é sensível, portanto, a variações específicas de velocidades e carregamento dos veículos e nem das condições físicas e de tráfego das rodovias, ou seja, é calculado levando se em conta as condições médias de tráfego, rodagem, carregamento e velocidade.
 
 ---
 # Métodos de cálculo de custos operacionais
 
 ## Custeio ABC
-O Custeio Baseado em Atividades parte do princípio que os custos de uma empresa são gerados pelas atividades desempenhadas nela e que essas atividades são consumidas por produtos e serviços gerados nesta mesma empresa. Essa metodologia permite mensurar com mais exatidão as despesas e os custos indiretos — aqueles que não estão diretamente ligados à produção —, por meio da análise das atividades, dos seus geradores de custos e dos utilizadores.
+O **Custeio Baseado em Atividades** parte do princípio que os custos de uma empresa são gerados pelas **atividades** desempenhadas nela e que essas **atividades são consumidas por produtos e serviços** gerados nesta mesma empresa. 
 
-Antes, vamos esclarecer que o ABC é um método de rastrear os custos das atividades realizadas por uma empresa e de verificar como essas atividades estão relacionadas para a geração de receitas e o consumo de recursos. Seu principal objetivo é amenizar as distorções provocadas pelo uso do rateio arbitrário.
+Essa metodologia permite **mensurar com mais exatidão as despesas e os custos indiretos** — aqueles que não estão diretamente ligados à produção —, por meio da **análise das atividades, dos seus geradores de custos e dos utilizadores**.
+
+Antes, vamos esclarecer que o ABC é um método de **rastrear os custos das atividades** realizadas por uma empresa e de verificar como essas **atividades estão relacionadas para a geração de receitas e o consumo de recursos**. Seu principal objetivo é **amenizar as distorções provocadas pelo uso do rateio arbitrário**.
 
 ---
 # Métodos de cálculo de custos operacionais
@@ -278,6 +280,7 @@ Antes, vamos esclarecer que o ABC é um método de rastrear os custos das ativid
 ## Custeio ABC
 
 ### O que são direcionadores de custos?
+
 O direcionador de custos, no popular da controladoria chamados de “driver de custeio”, pode ser definido como uma **transação que determina a quantidade de trabalho aplicada em uma atividade para saber o seu custo, assim como a quantidade de atividade usada para a produção de um produto ou a entrega de um serviço**. Ele é classificado em duas categorias: 
 
 - **Direcionador de custos de recursos**: sua função é rastrear e identificar o quanto cada atividade consome de recursos. Para isso, este direcionador deve estabelecer uma ligação direta entre o recurso utilizado e a atividade executada.  
